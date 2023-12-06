@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\RacingSansOne-Regular-8533c136.ttf",
+      "PackagePath": "staticwebassets\\assets\\RacingSansOne-Regular-8533c136.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\index-06166f4c.css",
+      "PackagePath": "staticwebassets\\assets\\index-06166f4c.css"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\index-1dda6b0c.css",
+      "PackagePath": "staticwebassets\\assets\\index-1dda6b0c.css"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\index-2ff3a27c.js",
+      "PackagePath": "staticwebassets\\assets\\index-2ff3a27c.js"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\index-734d5def.js",
+      "PackagePath": "staticwebassets\\assets\\index-734d5def.js"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\index-a1822250.js",
+      "PackagePath": "staticwebassets\\assets\\index-a1822250.js"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\assets\\index-d68b2fd0.js",
+      "PackagePath": "staticwebassets\\assets\\index-d68b2fd0.js"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\fonts\\RacingSansOne-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\RacingSansOne-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\MT125.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\MT125.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\carlos.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\carlos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\charles.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\charles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\esteban.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\esteban.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\fernando.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\fernando.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\gril.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\gril.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\guy.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\guy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\hamilton.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\hamilton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\jimmy.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\jimmy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\lance.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\lance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\lando.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\lando.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\perez.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\perez.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\vegardb.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\vegardb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\drivers\\verstappen.jpg",
+      "PackagePath": "staticwebassets\\images\\drivers\\verstappen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\logos\\f1-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logos\\f1-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\images\\logos\\racing-car.png",
+      "PackagePath": "staticwebassets\\images\\logos\\racing-car.png"
+    },
+    {
+      "Id": "C:\\Users\\vegbr\\OneDrive - Høyskolen Kristiania\\DS3103 23H - Webutvikling\\DS3103-Webutvikling_exam\\DS3103_exam_solution\\F1API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.F1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.F1API.props",
+      "PackagePath": "build\\F1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.F1API.props",
+      "PackagePath": "buildMultiTargeting\\F1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.F1API.props",
+      "PackagePath": "buildTransitive\\F1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

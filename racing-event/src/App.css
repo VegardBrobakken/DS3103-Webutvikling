@@ -1,0 +1,152 @@
+/*Shared*/
+@font-face {
+    font-family: 'Racing Sans One';
+    src: url(/fonts/RacingSansOne-Regular.ttf);
+}
+
+.custom-font {
+    font-family: 'Racing Sans One';
+    font-size: 4rem;
+}
+
+/*Homepage*/
+#add-driver-section {
+    width: 80%;
+    border: 2px solid var(--background-dark);
+}
+
+.custom-text {
+    margin: 3% 20% 3% 20%; /*Fikser margins for teksten i en css-fil istedenfor bootstrap for da kan man justere margins i større grad*/
+    font-size: 1.3rem;
+}
+
+
+.form-container {
+    width: 60%;
+    margin: auto;
+}
+
+.form-content-box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+.form-header {
+    font-size: 2.5vw;
+}
+
+/*Edit & delete*/
+
+.edit-delete-box {
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+
+/* DriverItem (For at alle boksene med deltagere skal bli like uansett bildestørrelse som blir lastet opp)*/
+
+.image-container {
+    height: 350px;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Meda queries for å justere sånn at innholdet passer til alle skjerm-størrelser*/
+
+@media (max-width: 768px) {
+
+    .form-container {
+        width: 90%;
+    }
+
+    .form-header {
+        font-size: 1.2rem;
+    }
+
+    .edit-delete-box {
+        width: 80%;
+    }
+} 
+
+@media (max-width: 1200px) {
+
+    .form-container {
+        width: 100%;
+    }
+}
+    
+
+/*Fargepalett Formula 1, av Brock Shine: https://color.adobe.com/nb/search?q=formula%201*/
+
+.red { color: rgb(238, 0, 0);}
+.dark-gray {color: rgb(56, 56, 63);}
+.black {color: rgb(21, 21, 30);}
+.white {color: rgb(255, 255, 255);}
+.gray {color: rgb(85, 85, 85);}
+
+/*CSS variabler*/
+:root {
+    
+/*Bakgrunn*/
+    --background-r: 85;
+    --background-g: 85;
+    --background-b: 85;
+
+    --background: rgb(
+        var(--background-r),
+        var(--background-g),
+        var(--background-b)
+    );
+
+    --background-dark: rgb(
+        calc(var(--background-r) * 0.9),
+        calc(var(--background-g) * 0.9),
+        calc(var(--background-b) * 0.9)
+    );
+    
+    --background-light: rgb(
+        calc(var(--background-r) * 1.5),
+        calc(var(--background-g) * 1.5),
+        calc(var(--background-b) * 1.5)
+    );
+
+/*Header font*/
+    --header-text-r: 21;
+    --header-text-g: 21;
+    --header-text-b: 30;
+
+    --header-text: rgb(
+        var(--header-text-r),
+        var(--header-text-g),
+        var(--header-text-b)
+    );
+
+    --header-text-font: rgb(
+        calc(var(--header-text-r) * 0.9)
+        calc(var(--header-text-g) * 0.9)
+        calc(var(--header-text-b) * 0.9)
+    );
+
+    --header-text-shadow: rgb(
+        calc(var(--header-text-r) * 1.1)
+        calc(var(--header-text-g) * 1.1)
+        calc(var(--header-text-b) * 1.1)
+    )
+}
+
+/* Tar i bruk css variablene på hjem-siden */
+
+.background {
+    background-color: var(--background-light);
+}
+
+.home-header {
+    color: var(--header-text-font);
+}

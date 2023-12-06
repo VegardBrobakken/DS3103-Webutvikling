@@ -1,0 +1,44 @@
+.game-background {
+    background-color: #FFEDC5;
+    padding-bottom: 10%;
+}
+
+.game-container {
+    width: 80%;
+    padding: 5%;
+    margin: 0 auto;
+}
+
+.game-info {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.driver-boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.driver-image {
+    width: 30%;
+    cursor: pointer;
+    margin-bottom: 5%;
+}
+
+
+@media (max-width: 768px) {
+    
+    .driver-boxes {
+        flex-direction: column;
+    }
+
+    .driver-image {
+        width: 100%;
+    }
+
+    .game-info {
+        font-size: 1rem;
+    }
+}
+
