@@ -1,3 +1,3 @@
-# DS3103-Webutvikling
+# DS3103-Webutvikling Eksamen Høst 2023
 Karakter: A
 
